@@ -1,7 +1,7 @@
-package controller;
+package org.example.controller;
 
-import view.MyFrame;
-import view.MyPanel;
+import org.example.view.MyFrame;
+import org.example.view.MyPanel;
 
 import java.awt.*;
 import java.awt.geom.Ellipse2D;

@@ -1,6 +1,6 @@
-package view;
+package org.example.view;
 
-import controller.Controller;
+import org.example.controller.Controller;
 
 import javax.swing.*;
 import java.awt.*;
